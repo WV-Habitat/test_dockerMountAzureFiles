@@ -1,5 +1,7 @@
 # Test mounting Azure file storage on Docker
 
+This file describes the main outcomes from the exploration on how to mount the Azure File Storage in a Docker image.
+
 ## Build the Docker image
 
 ```bash
